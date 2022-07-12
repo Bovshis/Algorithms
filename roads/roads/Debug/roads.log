@@ -1,0 +1,3 @@
+﻿  roads.cpp
+C:\Users\danii\source\repos\roads\roads\roads.cpp(116,19): warning C4018: <: несоответствие типов со знаком и без знака
+  roads.vcxproj -> C:\Users\danii\source\repos\roads\Debug\roads.exe
