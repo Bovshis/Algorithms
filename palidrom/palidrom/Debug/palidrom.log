@@ -1,0 +1,3 @@
+﻿  palidrom.cpp
+C:\Users\danii\source\repos\palidrom\palidrom\palidrom.cpp(13,19): warning C4018: <: несоответствие типов со знаком и без знака
+  palidrom.vcxproj -> C:\Users\danii\source\repos\palidrom\Debug\palidrom.exe
