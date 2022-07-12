@@ -1,0 +1,3 @@
+﻿  BinarySearch.cpp
+C:\Users\danii\source\repos\BinarySearch\BinarySearch\BinarySearch.cpp(89,9): warning C4101: n: неиспользованная локальная переменная
+  BinarySearch.vcxproj -> C:\Users\danii\source\repos\BinarySearch\Debug\BinarySearch.exe
